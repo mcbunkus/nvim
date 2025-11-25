@@ -1,4 +1,4 @@
-# Neovim Configuration
+# My Neovim Configuration
 
 This is my Neovim configuration, which started with [LazyVim](https://github.com/LazyVim/LazyVim).
 
